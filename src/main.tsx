@@ -6,7 +6,7 @@ import App from "./App";
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
     <AutherrProvider
-      clientId="app_6221d0d0cf6e443c9f73bef3a5e2b795"
+      clientId="app_36720e07c5bf4f6098151ac52f02d87a"
       baseUrl="https://autherr.onrender.com"
     >
       <App />
